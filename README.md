@@ -13,11 +13,12 @@ Projek ini bertemakan "3D Bow Shooter" merupakan sebuah game open world fps (inf
 
 # Dokumentasi 
 Berikut adalah beberapa key listener yang tersedia pada game ini: </br> 
-ESC: Untuk keluar dari game </br> 
+ESC: Untuk keluar dari game </br>
+R: Mengambil anak panah </br>
 W: Menggerakkan player ke depan </br> 
 A: Menggerakkan player ke kiri </br> 
 S: menggerakkan player ke belakang </br> 
-D: Menggerakkan player ke kanan </br> 
+D: Menggerakkan player ke kanan </br>
 Mouse Movement: merotasikan layar </br>
 Mouse Wheel (Belakang): Menarik busur </br>
 Mouse Left Click: Menembakan panah </br>
